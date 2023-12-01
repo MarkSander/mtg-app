@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start":"../dist/apps/mtg-app/browser/main.ts"
+    "start":"node C:/Users/mark/Documents/mtg-cards/mtg-app/dist/apps/mtg-app/browser/main.02186016efa3e4c0.js"
   },
   "private": true,
   "dependencies": {
