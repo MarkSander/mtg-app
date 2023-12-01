@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start":"nx s mtg-app"
+    "start":"../dist/apps/mtg-app/browser/main.ts"
   },
   "private": true,
   "dependencies": {
